@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Raster data (DO NOT push satellite outputs)
+*.tif
+*.img
+*.nc
+output/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
